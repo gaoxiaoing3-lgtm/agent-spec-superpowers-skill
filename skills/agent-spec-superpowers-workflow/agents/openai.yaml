@@ -1,0 +1,3 @@
+display_name: Agent Spec Superpowers Workflow
+short_description: Runs AI coding work with Spec Kit as lifecycle, Superpowers as discipline, and domain skills as knowledge.
+default_prompt: Use the Agent Spec Superpowers Workflow to plan and execute this task with Spec Kit artifacts, Superpowers quality gates, and only the domain skills needed for the technology involved.
